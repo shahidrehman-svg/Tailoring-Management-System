@@ -1,0 +1,676 @@
+<style><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></p>
+<p>.zoom:hover {<br />  transform: scale(1.2); /* (120% zoom - Note: if the zoom is too large, it will go outside of the viewport) */<br />}<br /></style>
+<table class="matrix table table-bordered" cellspacing="0" cellpadding="3">
+<thead></thead>
+<tbody>
+<tr>
+<th style="width: 10%; color: black; background: white;" rowspan="5">Product Specification</th>
+<td style="width: 9%; color: black;"><b>Model</b></td>
+<td style="width: 9%; color: black !important;">NX-PBPL-1SC</td>
+<td style="width: 9%; color: black !important;">NX-PBPL-1S2</td>
+<td style="width: 9%; color: black !important;">NX-PBPL-1M</td>
+<td style="width: 9%; color: black !important;">NX-PBPL-1L</td>
+<td style="width: 9%; color: black !important;">NX-PBPL-2M</td>
+<td style="width: 9%; color: black !important;">NX-PBPL-2L</td>
+<td style="width: 9%; color: black !important;">NX-PBPL-3XL</td>
+<td style="width: 9%; color: black !important;">NX-PBPL-4L</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Image</b></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion_Network-Packet-Broker.NX-PBPL-1SC.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion_Network-Packet-Broker.NX-PBPL-1SC.webp" /></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion_Network-Packet-Broker.NX-PBPL-1S2.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion_Network-Packet-Broker.NX-PBPL-1S2.webp" /></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-1M.1S.Network-Packet-Broker.400x.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-1M.1S.Network-Packet-Broker.400x.webp" /></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-1L.Network-Packet-Broker.400x-1.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-1L.Network-Packet-Broker.400x-1.webp" /></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion_NX-PBPL-2M_Network-Packet-Broker.400x-1.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion_NX-PBPL-2M_Network-Packet-Broker.400x-1.webp" /></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion_2L_Network-Packet-Broker.400x.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion_2L_Network-Packet-Broker.400x.webp" /></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-3XL.Network-Packet-Broker.400x.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-3XL.Network-Packet-Broker.400x.webp" /></td>
+<td style="background: white;"><img class="product lazy-load-active zoom" style="max-width: 90px;" src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-4L.Network-Packet-Broker.400x-1.webp" data-src="https://www.neox-networks.com/wp-content/uploads/PacketLion.NX-PBPL-4L.Network-Packet-Broker.400x-1.webp" /></td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Switch Packet Processor</b></td>
+<td style="color: black; background: white;">Broadcom
+Trident 3
+(BCM56277)</td>
+<td style="color: black; background: white;">Broadcom
+Trident 3
+(BCM56771)</td>
+<td style="color: black; background: white;">Broadcom
+Qumeran MX
+(BCM88375)</td>
+<td style="color: black; background: white;">Broadcom
+Trident 3
+(BCM56873)</td>
+<td style="color: black; background: white;">Broadcom
+Tomahawk
+(BCM56960)</td>
+<td style="color: black; background: white;">Broadcom
+Trident 3
+(BCM56870)</td>
+<td style="color: black; background: white;">Broadcom
+Tomahawk III
+(BCM56980)</td>
+<td style="color: black; background: white;">Broadcom
+Jericho2
+(BCM88690)
+&amp; Broadcom
+OP2 (BCM16K)</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Dimensions
+</b>(WxDxH)</td>
+<td style="color: black; background: white;">44.0 x 35.0 x 4.4 cm</td>
+<td style="color: black; background: white;">44.3 x 47.3 x 4.4 cm</td>
+<td style="color: black; background: white;">44.3 x 47.3 x 4.3 cm</td>
+<td style="color: black; background: white;">43.8 x 53.6 x 4.4 cm</td>
+<td style="color: black; background: white;">43.8 x 51.5 x 4.4 cm</td>
+<td style="color: black; background: white;">43.8 x 51.5 x 4.4 cm</td>
+<td style="color: black; background: white;">43.8 x 53.6 x 4.3 cm</td>
+<td style="color: black; background: white;">43.6 x 87.7 x 16.2 cm</td>
+</tr>
+<tr style="vertical-align: top;">
+<td style="color: black; background: white;"><b>Network Interfaces</b></td>
+<td style="color: black; background: white;">48x RJ45 10/100/1000 Mbps
+6x SFP+: 1/10 Gbe</td>
+<td style="color: black; background: white;">48x SFP+ 1/10 Gbe
+6x QSFP28 40/100 Gbe</td>
+<td style="color: black; background: white;">48x SFP+: 10/100/1000M copper, or
+1/2.5/10 Gbe/GbaseT,
+6x QSFP28 1/10/40/50/100 Gbe,
+or 12x 50 Gbe, or 24 x 10/25 Gbe</td>
+<td style="color: black; background: white;">48x SFP28: 1/10 Gbe copper, or 1/10/25 Gbe
+8x QSFP28 1/10/25/
+40/50/100 Gbe, or
+16x 50 Gbe, or
+32x 10/25 Gbe</td>
+<td style="color: black; background: white;">32x QSFP28 40/100 Gbe, or
+64x 50 Gbe, or
+128x 1/10/25 Gbe</td>
+<td style="color: black; background: white;">32x QSFP28 40/100 Gbe, or
+64x 50 Gbe, or
+128x 1/10/25 Gbe</td>
+<td style="color: black; background: white;">32x QSFP-DD
+10/25/50/100/
+200/400 Gbe, or
+64x 40 Gbe, or
+128x 10/25/50/100 Gbe</td>
+<td style="color: black; background: white;">40x QSFP28 40/100 Gbe, or
+80x 10/25 Gbe</td>
+</tr>
+<tr>
+<th style="color: black; background: white;"><b>Management</b></th>
+<td style="color: black; background: white;"><b>User interface full coverage</b> (CLI, Netconf, SNMP, WebUI)</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+</tr>
+<tr>
+<th style="color: black; background: white;"></th>
+<td style="padding-left: 3; color: black; background: white;"><b>Stacking</b>
+(w/o additional license fees)</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<th style="vertical-align: top; color: black; background: white;" rowspan="7">Ports</th>
+<td style="color: black; background: white;"><b>MTU</b></td>
+<td style="color: black; background: white;">9,400 Bytes</td>
+<td style="color: black; background: white;">9,400 Bytes</td>
+<td style="color: black; background: white;">9,216 Bytes</td>
+<td style="color: black; background: white;">9,400 Bytes</td>
+<td style="color: black; background: white;">9,400 Bytes</td>
+<td style="color: black; background: white;">9,400 Bytes</td>
+<td style="color: black; background: white;">9,400 Bytes</td>
+<td style="color: black; background: white;">9,416 Bytes</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>TX queues</b></td>
+<td style="color: black; background: white;">4MB</td>
+<td style="color: black; background: white;">32MB</td>
+<td style="color: black; background: white;">6GB Deep Buffer</td>
+<td style="color: black; background: white;">32MB</td>
+<td style="color: black; background: white;">16MB</td>
+<td style="color: black; background: white;">32MB</td>
+<td style="color: black; background: white;">64MB</td>
+<td style="color: black; background: white;">8GB Deep Buffer</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Port Labeling</b>
+(VLAN tagging)</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>MPLS stripping</b></td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>PRBS</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Pre emphasis settings</b></td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Ignore bad CRC</b></td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">❌</td>
+</tr>
+<tr>
+<th style="vertical-align: top; color: black; background: white;" rowspan="3">Rules</th>
+<td style="vertical-align: top; color: black; background: white;"><b>UDF</b></td>
+<td style="color: black; background: white;">up to 15 windows of 30 bytes in total</td>
+<td style="color: black; background: white;">up to 15 windows of 30 bytes in total</td>
+<td style="color: black; background: white;">2 UDF windows
+3/16 and 16 Bytes</td>
+<td style="color: black; background: white;">up to 15 UDF windows
+of 30 Bytes in total</td>
+<td style="color: black; background: white;">2 UDF windows
+of 16 Bytes</td>
+<td style="color: black; background: white;">up to 15 UDF windows
+30 Bytes in total</td>
+<td style="color: black; background: white;">up to 16 UDF windows
+32 Bytes in total</td>
+<td style="color: black; background: white;">16 UDF windows
+32 Bytes total</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Number of filters</b></td>
+<td style="color: black; background: white;">3,070</td>
+<td style="color: black; background: white;">3,070</td>
+<td style="color: black; background: white;">12,288</td>
+<td style="color: black; background: white;">3,070</td>
+<td style="color: black; background: white;">1,023</td>
+<td style="color: black; background: white;">3,070</td>
+<td style="color: black; background: white;">1,023</td>
+<td style="color: black; background: white;">12,287</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>HW Exact match IP filters</b></td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">110,000</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">110,000</td>
+<td style="color: black; background: white;">15,000</td>
+<td style="color: black; background: white;">110,000</td>
+<td style="color: black; background: white;">40,000</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<th style="vertical-align: top; color: black; background: white;" rowspan="19">Rules Classifiers</th>
+<td style="color: black; background: white;"><b>MAC Address Filtering</b></td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Ethertype</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Vlan</b></td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Inner Vlan</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>MPLS Labels</b> (4 Labels) and masks</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">❌</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>DSCP</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Protocol No.</b></td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+<td style="background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>L3 Fragments</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>L3 Packet Length</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>IPv4 Filtering</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>IPv6 Filtering</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>L4-Ports</b> (source, destination)</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>TCP Flags</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>MPLS-Tunnel Filtering</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅ (L3 IPv4)</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>GTP-Tunnel Filtering</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>L2TP-Tunnel Filteringv</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>PPPoE-Tunnel Filtering</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr style="color: black; background: white;">
+<td style="color: black; background: white;"><b>GRE-Tunnel Filtering</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>VXLAN-Tunnel Filtering</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<th style="vertical-align: top; color: black; background: white;" rowspan="5">Packet Processing</th>
+<td style="color: black; background: white;"><b>MAC replace</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Vlan Editing</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Packet Slicing</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Port Timestamping</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Rule Timestamping</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<th style="vertical-align: top; color: black; background: white;" rowspan="7">Load-Balancing</th>
+<td style="color: black; background: white;"><b>Gruppenanzahl</b></td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">64</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Round robin</b></td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Hash based</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Random</b></td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Hash Keys</b></td>
+<td style="color: black; background: white;">Input interface, MPLS,
+L2, L3, L4, GTP TEID</td>
+<td style="color: black; background: white;">Input interface, MPLS,
+L2, L3, L4, GTP TEID</td>
+<td style="color: black; background: white;">MPLS,
+L2, L3, L4</td>
+<td style="color: black; background: white;">Input interface, MPLS,
+L2, L3, L4, GTP TEID</td>
+<td style="color: black; background: white;">Input interface, MPLS,
+L2, L3, L4, GTP TEID</td>
+<td style="color: black; background: white;">Input interface, MPLS,
+L2, L3, L4, GTP TEID</td>
+<td style="color: black; background: white;">Input interface, MPLS,
+L2, L3, L4, GTP TEID</td>
+<td style="color: black; background: white;">L2, L3, L4</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Dynamic Load Balancing</b></td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Port-Redundanz</b>
+(standby ports)</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<th style="vertical-align: top; color: black; background: white;" rowspan="3">Inline Solution</th>
+<td style="color: black; background: white;"><b>Inline Tools &amp; Heartbeat</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Inline Tool Chains</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>Inline Load-Balancing</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+</tr>
+<tr>
+<th style="color: black; background: white;">IP-Interfaces</th>
+<td style="padding-left: 3; color: black; background: white;"><b>Anzahl IP-Interfaces</b></td>
+<td style="color: black; background: white;">1022</td>
+<td style="color: black; background: white;">1022</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<th style="vertical-align: top; color: black; background: white;" rowspan="3">GRE-Tunneling</th>
+<td style="padding-left: 3; color: black; background: white;"><b>Anzahl GRE-Interfaces</b></td>
+<td style="color: black; background: white;">1022</td>
+<td style="color: black; background: white;">1022</td>
+<td style="color: black; background: white;">n/a</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">99</td>
+<td style="color: black; background: white;">n/a</td>
+<td style="color: black; background: white;">n/a</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>L2 GRE-Termination</b></td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+<tr>
+<td style="color: black; background: white;"><b>L3 GRE-Termination</b></td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">✅</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+<td style="color: black; background: white;">❌</td>
+</tr>
+</tbody>
+</table>
