@@ -23,12 +23,3 @@ FIRST Download
 7.Run the script http://localhost/tailor
 
 Tailor Management System
-
-**LOGIN DETAILS** 
-
-Admin
-user: admin
-pass: admin
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
